@@ -1,0 +1,14 @@
+layout_spectrum: 0.4938348
+color:
+  saturation: 0.442373
+  lightness: 0.6910641
+  brandStrength: 0.4415315
+  brandColors:
+    - '#1F1F20'
+    - '#DFD7C7'
+    - '#BC9832'
+    - '#A19C92'
+    - '#6D665C'
+  rhythmicContrast: 0.3963987
+typography_spectrum: 0.2163139
+name: Rocklin
